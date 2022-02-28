@@ -1,0 +1,1489 @@
+@UTF8
+@PID:	11312/c-00007621-1
+@Begin
+@Languages:	zho
+@Participants:	CHI 扬志 Target_Child , EXP Investigator
+@ID:	zho|Chang1|CHI|3;10.|male|three|MC|Target_Child|||
+@ID:	zho|Chang1|EXP|||||Investigator|||
+@Birth of CHI:	04-APR-1992
+@Date:	13-FEB-1996
+@Activities:	Replica Play Jungle (RPJ)
+@Situation:	CHI and EXP create a story with toys
+@Comment:	Filename is 023RPJ
+@Types:	cross, toyplay, TD
+*EXP:	我们 来 玩 森林 游戏 .
+%mor:	pro:per|wo3-PL=I v:dirc|lai2=come v|wan2=play n|sen1lin2=forest
+	n|you2xi4=game .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SRL 4|5|MOD 5|3|OBJ 6|2|PUNCT
+*EXP:	这 个 是 森林 的 草地 .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is n|sen1lin2=forest poss|de
+	n|cao3di4=grassland .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|3|PUNCT
+*EXP:	然后 这 个 森林 还 有 哦 .
+%mor:	conj|ran2hou4=thereupon det|zhe4=this cl|ge4 n|sen1lin2=forest
+	adv|hai2=still v|you3=have sfp|o1 .
+%gra:	1|6|LINK 2|4|DET 3|4|CLASS 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|SFP 8|6|PUNCT
+*EXP:	你 看 .
+%mor:	pro:per|ni3=you v|kan4=look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*EXP:	树 给 你 .
+%mor:	n|shu4=tree v|gei3=give pro:per|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*EXP:	你 要 放 哪里 ?
+%mor:	pro:per|ni3=you v:aux|yao4=should v|fang4=place pro:wh|na3li3=where
+	?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	放 (.) 这里 [^c] .
+%mor:	v|fang4=place post|zhe4li3=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*EXP:	放 这里 .
+%mor:	v|fang4=place post|zhe4li3=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*EXP:	还 有 两 个 小 的 .
+%mor:	adv|hai2=still v|you3=have num|liang3=two cl|ge4 adj|xiao3=small
+	nom|de .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|COBJ 6|5|LINK 7|2|PUNCT
+*EXP:	你 要 放 哪里 ?
+%mor:	pro:per|ni3=you v:aux|yao4=should v|fang4=place pro:wh|na3li3=where
+	?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	放 这 中间 [^c] .
+%mor:	v|fang4=place pro:dem|zhe4=this n|zhong1jian1=center .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*EXP:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	这 个 森林 还 有 一 个 池塘 .
+%mor:	det|zhe4=this cl|ge4 n|sen1lin2=forest adv|hai2=still v|you3=have
+	num|yi1=one cl|ge4 n|chi2tang2=pool .
+%gra:	1|3|DET 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|QUANT 7|8|CLASS 8|5|OBJ
+	9|5|PUNCT
+*EXP:	你 要 放 哪里 ?
+%mor:	pro:per|ni3=you v:aux|yao4=should v|fang4=place pro:wh|na3li3=where
+	?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*EXP:	这里 .
+%mor:	post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	然后 这 个 森林 里 有 好 多 动物 .
+%mor:	conj|ran2hou4=thereupon det|zhe4=this cl|ge4 n|sen1lin2=forest
+	post|li3=inside v|you3=have adv|hao3=very adj|duo1=lots
+	n|dong4wu4=animal .
+%gra:	1|6|LINK 2|4|DET 3|4|CLASS 4|5|POSTO 5|6|JCT 6|0|ROOT 7|8|JCT 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*EXP:	你 猜 有 什么 动物 ?
+%mor:	pro:per|ni3=you v|cai1=guess v|you3=have pro:wh|shen2me=what
+	n|dong4wu4=animal ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|5|MOD 5|3|OBJ 6|2|PUNCT
+*CHI:	我 不 知道 [^c] .
+%mor:	pro:per|wo3=I adv|bu4=not v|zhi1dao4=know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*EXP:	狮子 .
+%mor:	n|shi1zi3=lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	这 是 狮子 爸爸 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|shi1zi3=lion
+	n:relat|ba4&DIM=father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	+^ 你 有没有 狮子 的 小 孩 啊 [^c] ?
+%mor:	pro:per|ni3=you v|you3&DIM=have n|shi1zi3=lion poss|de
+	adj|xiao3=small n|hai2=child sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|3|POSS 5|6|MOD 6|2|OBJ 7|2|SFP 8|2|PUNCT
+*EXP:	有 啊 .
+%mor:	v|you3=have sfp|a1 .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*EXP:	这 是 狮子 妈妈 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|shi1zi3=lion
+	n:relat|ma1&DIM=mother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*EXP:	牠 们 还 有 两 个 小 孩 哦 .
+%mor:	pro:per|ta1=it_animal n|men2=group adv|hai2=still v|you3=have
+	num|liang3=two cl|ge4 adj|xiao3=small n|hai2=child sfp|o1 .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|8|CLASS 7|8|MOD 8|4|OBJ
+	9|4|SFP 10|4|PUNCT
+*CHI:	在 哪儿 啊 [^c] ?
+%mor:	prep|zai4=at pro:wh|na3-DIA=where sfp|a1 ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|SFP 4|1|PUNCT
+*EXP:	在 这里 呀 .
+%mor:	prep|zai4=at post|zhe4li3=here sfp|ya .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|SFP 4|1|PUNCT
+*EXP:	牠 们 要 出来 啦 .
+%mor:	pro:per|ta1=it_animal n|men2=group v:aux|yao4=should
+	v:dirc|chu1lai2=go_out sfp|la1 .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|SFP 6|4|PUNCT
+*EXP:	这 是 狮子 小 孩 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|shi1zi3=lion adj|xiao3=small
+	n|hai2=child .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*EXP:	然后 呢 +/.
+%mor:	conj|ran2hou4=thereupon sfp|ne +/.
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	一 个 是 妈妈 的 小 孩 [^c] 一 个 是 爸爸 的 [^c] .
+%mor:	num|yi1=one cl|ge4 v:cop|shi4=is n:relat|ma1&DIM=mother poss|de
+	adj|xiao3=small n|hai2=child num|yi1=one cl|ge4 v:cop|shi4=is
+	n:relat|ba4&DIM=father poss|de .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|4|POSS 6|7|MOD 7|10|SUBJ
+	8|9|QUANT 9|10|SUBJ 10|3|PRED 11|10|PRED 12|11|POSS 13|3|PUNCT
+*EXP:	对 .
+%mor:	adj|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	然后 爸爸 比较 高 [^c] .
+%mor:	conj|ran2hou4=thereupon n:relat|ba4&DIM=father
+	adv|bi3jiao3=relatively adj|gao1=tall .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+*EXP:	然后 +/.
+%mor:	conj|ran2hou4=thereupon +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 妈妈 好 小 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother adv|hao3=very
+	adj|xiao3=small .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+*EXP:	+, 还 有 鸟 哦 .
+%mor:	adv|hai2=still v|you3=have n|niao3=bird sfp|o1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+*EXP:	xiu@o 飞 下来 了 .
+%mor:	on|xiu v:resc|fei1=fly_away v:dirc|xia4lai2=down asp|le .
+%gra:	1|0|INCROOT 2|1|VR 3|1|VD 4|1|ASP 5|1|PUNCT
+*EXP:	扬志 你 坐 好 .
+%mor:	n:prop|yang2zhi4=flag_ambition pro:per|ni3=you v|zuo4=sit
+	adj|hao3=good .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	还 有 吗 [^c] ?
+%mor:	adv|hai2=still v|you3=have sfp|ma ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*EXP:	还 有 啊 .
+%mor:	adv|hai2=still v|you3=have sfp|a1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	我 要 这 一 只 [^c] .
+%mor:	pro:per|wo3=I v|yao4=want pro:dem|zhe4=this num|yi1=one cl|zhi1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+%act:	takes daddy lion
+*EXP:	然后 扬志 阿姨 跟 你 说 这 个 森林 里 还 有 一 只 大象 哦 .
+%mor:	conj|ran2hou4=thereupon n:prop|yang2zhi4=flag_ambition
+	n:relat|a1yi2=mothers_sister prep|gen1=with pro:per|ni3=you
+	v|shuo1=say det|zhe4=this cl|ge4 n|sen1lin2=forest post|li3=inside
+	adv|hai2=still v|you3=have num|yi1=one cl|zhi1 n|da4xiang4=elephant
+	sfp|o1 .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|9|DET 8|9|CLASS
+	9|10|POSTO 10|12|JCT 11|12|JCT 12|6|COBJ 13|14|QUANT 14|15|CLASS
+	15|12|OBJ 16|6|SFP 17|6|PUNCT
+*CHI:	放 这儿 [^c] .
+%mor:	v|fang4=place post|zhe4&DIA=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*EXP:	放 这里 好 .
+%mor:	v|fang4=place post|zhe4li3=here adj|hao3=good .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*EXP:	扬志 阿姨 问 你 一 个 问题 看 你 知道不知道 .
+%mor:	n:prop|yang2zhi4=flag_ambition n:relat|a1yi2=mothers_sister
+	v|wen4=ask pro:per|ni3=you num|yi1=one cl|ge4 n|wen4ti2=problem
+	v|kan4=look pro:per|ni3=you v|zhi1dao4&QUE=know .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|6|QUANT 6|7|CLASS 7|3|OBJ 8|3|SRL
+	9|10|SUBJ 10|8|COMP 11|3|PUNCT
+*EXP:	你 知不知道 大象 是 什么 颜色 ?
+%mor:	pro:per|ni3=you v|zhi1dao4&QUE=know n|da4xiang4=elephant
+	v:cop|shi4=is pro:wh|shen2me=what n|yan2se4=color ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SRL 5|6|MOD 6|4|PRED 7|2|PUNCT
+*CHI:	红 的 [^c] .
+%mor:	adj|hong2=red nom|de .
+%gra:	1|0|INCROOT 2|1|LINK 3|1|PUNCT
+*EXP:	红 的 .
+%mor:	adj|hong2=red nom|de .
+%gra:	1|0|INCROOT 2|1|LINK 3|1|PUNCT
+*EXP:	大象 本来 应该 是 什么 颜色 ?
+%mor:	n|da4xiang4=elephant adv|ben3lai2=originally v:aux|ying1gai1=should
+	v:cop|shi4=is pro:wh|shen2me=what n|yan2se4=color ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+*EXP:	< 灰 的 > [>] .
+%mor:	n|hui1=dust poss|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+*CHI:	< 灰色 > [<] [^c] .
+%mor:	adj|hui1se4=grey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	可是 这 只 是 紫色 的 „ 对不对 ?
+%mor:	conj|ke3shi4=but pro:dem|zhe4=this adv|zhi3=only v:cop|shi4=is
+	adj|zi3se4=purple cleft|de end|end adj|dui4&QUE=correct ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PRED 6|5|LINK 7|8|ENDP 8|4|END
+	9|4|PUNCT
+*CHI:	还 有 狮子 王 [^c] .
+%mor:	adv|hai2=still v|you3=have n|shi1zi3=lion n|wang2=king .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*EXP:	然后 这 个 大象 是不是 跟 别的 大象 颜色 不 一样 ?
+%mor:	conj|ran2hou4=thereupon det|zhe4=this cl|ge4 n|da4xiang4=elephant
+	co:int|shi4bu2shi4=right v|gen1=follow adj|bie2de=other
+	n|da4xiang4=elephant n|yan2se4=color adv|bu4=not adj|yi1yang4=same ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|CLASS 4|5|SUBJ 5|1|COMP 6|5|COBJ 7|9|MOD
+	8|9|MOD 9|11|SUBJ 10|11|JCT 11|6|COMP 12|1|PUNCT
+*CHI:	0 .
+%gpx:	nods
+*EXP:	所以 这 个 小 狮子 就 对 大象 说 +"/.
+%mor:	conj|suo3yi3=so det|zhe4=this cl|ge4 adj|xiao3=small n|shi1zi3=lion
+	adv|jiu4=just prep|dui4=toward n|da4xiang4=elephant v|shuo1=say +"/.
+%gra:	1|5|LINK 2|5|DET 3|5|CLASS 4|5|MOD 5|9|SUBJ 6|9|JCT 7|9|JCT 8|7|PREPO
+	9|0|ROOT 10|9|PUNCT
+*EXP:	+" 大象 你 好 丑 哦 .
+%mor:	n|da4xiang4=elephant pro:per|ni3=you adv|hao3=very adj|chou3=ugly
+	co|o1=chant .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|SFP 6|4|PUNCT
+*EXP:	+" 人家 大象 都 是 灰色 的 你 怎么 是 紫色 的 ?
+%mor:	pro:per|ren2jia1=people n|da4xiang4=elephant adv|dou1=all
+	v:cop|shi4=is adj|hui1se4=grey nom|de pro:per|ni3=you
+	adv:wh|zen3me=how v:cop|shi4=is adj|zi3se4=purple nom|de ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|9|SUBJ 6|5|LINK 7|9|SUBJ 8|9|JCT
+	9|4|PRED 10|9|PRED 11|10|LINK 12|4|PUNCT
+*CHI:	&=laughs .
+*EXP:	+" 你 好像 一 个 大 葡萄 .
+%mor:	pro:per|ni3=you adv|hao3xiang4=seem num|yi1=one cl|ge4
+	adj|da4=great n|pu2tao2=grape .
+%gra:	1|6|MOD 2|4|JCT 3|4|QUANT 4|6|CLASS 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+@Bg:	Narrative
+*CHI:	< 牠 妈妈 也 > [//] 啊 牠 妈妈 [= mommy lion] 把 树 打 坏 [^c] .
+%mor:	sfp|a1 pro:per|ta1=it_animal n:relat|ma1&DIM=mother v|ba3=hold
+	n|shu4=tree v|da3=hit v:resc|huai4=spoil .
+%gra:	1|0|INCROOT 2|3|MOD 3|4|SUBJ 4|1|COMP 5|4|OBJ 6|4|SRL 7|6|VR 8|1|PUNCT
+%act:	mommy lion's tail hits tree down
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	< 那 扬志 > [>] 你 说 其他 动物 会 对 大象 说 什么 ?
+%mor:	pro:dem|na4=that n:prop|yang2zhi4=flag_ambition pro:per|ni3=you
+	v|shuo1=say pro:dem|qi2ta1=other n|dong4wu4=animal v:aux|hui4=will
+	prep|dui4=toward n|da4xiang4=elephant v|shuo1=say
+	pro:wh|shen2me=what ?
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|SUBJ 4|1|COMP 5|6|MOD 6|10|SUBJ 7|10|AUX
+	8|10|JCT 9|8|PREPO 10|4|COBJ 11|10|OBJ 12|1|PUNCT
+*CHI:	< 打 倒 > [<] [^c] .
+%mor:	v|da3=hit v|dao4=pour .
+%gra:	1|0|ROOT 2|1|SRL 3|1|PUNCT
+*CHI:	不 知道 [^c] .
+%mor:	adv|bu4=not v|zhi1dao4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	你 想 呢 ?
+%mor:	pro:per|ni3=you v|xiang3=think sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*EXP:	这 是 麦克风 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|mai4ke4feng1=microphone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*EXP:	阿姨 放 在 你 衣服 上 .
+%mor:	n:relat|a1yi2=mothers_sister v|fang4=place prep|zai4=at
+	pro:per|ni3=you n|yi1fu2=clothes post|shang4=above .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|6|POSTO 6|3|PREPO 7|2|PUNCT
+%com:	EXP clips microphone on CHI's clothes
+*EXP:	这样子 阿姨 才 听 得 到 你 讲话 .
+%mor:	adv|zhe4yang4zi=like_this n:relat|a1yi2=mothers_sister
+	adv|cai2=just v|ting1=listen stative|de=be_able_to
+	v:resc|dao4=arrive pro:per|ni3=you v|jiang3hua4=speak .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|LINK 6|4|VR 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*EXP:	你 跟 阿姨 说 其他 动物 会 对 大象 说 什么 ?
+%mor:	pro:per|ni3=you prep|gen1=with n:relat|a1yi2=mothers_sister
+	v|shuo1=say pro:dem|qi2ta1=other n|dong4wu4=animal v:aux|hui4=will
+	prep|dui4=toward n|da4xiang4=elephant v|shuo1=say
+	pro:wh|shen2me=what ?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|6|MOD 6|10|SUBJ 7|10|AUX 8|10|JCT
+	9|8|PREPO 10|4|COBJ 11|10|OBJ 12|4|PUNCT
+*CHI:	不 知道 [^c] .
+%mor:	adv|bu4=not v|zhi1dao4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	你 编 啊 .
+%mor:	pro:per|ni3=you v|bian1=arrange sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*EXP:	你 编 给 阿姨 听 啊 .
+%mor:	pro:per|ni3=you v|bian1=arrange prep|gei3=for
+	n:relat|a1yi2=mothers_sister v|ting1=listen sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|3|PREPO 5|2|SRL 6|2|SFP 7|2|PUNCT
+*EXP:	你 玩 „ 好不好 ?
+%mor:	pro:per|ni3=you v|wan2=play end|end co:int|hao3bu2hao3=okay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*CHI:	这 什么 啊 [^c] ?
+%mor:	pro:dem|zhe4=this pro:wh|shen2me=what sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|SFP 4|2|PUNCT
+%com:	takes microphone off clothes and puts it on table
+*EXP:	好 那 你 放 边 边 .
+%mor:	adj|hao3=good conj|na4=so pro:per|ni3=you v|fang4=place
+	n|bian1=side n|bian1=side .
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*EXP:	扬志 你 说 啊 .
+%mor:	n:prop|yang2zhi4=flag_ambition pro:per|ni3=you v|shuo1=say sfp|a1 .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|SFP 5|3|PUNCT
+*CHI:	不 知道 [^c] .
+%mor:	adv|bu4=not v|zhi1dao4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	不 知道 .
+%mor:	adv|bu4=not v|zhi1dao4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	有一天 所有 的 动物 都 在 森林 里 突然 牠 们 听 到 一 个 很 大的 声音 踫 踫 踫 踫 .
+%mor:	adv|you3yi4tian1=one_day v|suo3you3=own cleft|de n|dong4wu4=animal
+	adv|dou1=all prep|zai4=at n|sen1lin2=forest post|li3=inside
+	adv|tu2ran2=abruptly pro:per|ta1=it_animal n|men2=group
+	v|ting1=listen v:resc|dao4=arrive num|yi1=one cl|ge4 adv|hen3=much
+	adj|da4-ISH=great n|sheng1yin1=sound on|peng4=bump on|peng4=bump
+	on|peng4=bump on|peng4=bump .
+%gra:	1|2|JCT 2|4|CMOD 3|2|LINK 4|12|SUBJ 5|12|JCT 6|12|JCT 7|8|POSTO
+	8|12|JCT 9|12|JCT 10|11|MOD 11|12|SUBJ 12|0|ROOT 13|12|VR 14|15|QUANT
+	15|18|CLASS 16|17|JCT 17|18|MOD 18|12|OBJ 19|12|COMP 20|19|COBJ 21|20|COMP
+	22|21|END 23|12|PUNCT
+*EXP:	你 知道 是 什么 出来 了 吗 ?
+%mor:	pro:per|ni3=you v|zhi1dao4=know v:cop|shi4=is pro:wh|shen2me=what
+	v:dirc|chu1lai2=go_out asp|le sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|PRED 5|4|VD 6|2|ASP 7|2|SFP 8|2|PUNCT
+*CHI:	大象 [^c] .
+%mor:	n|da4xiang4=elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	不 是 .
+%mor:	adv|bu4=not v:cop|shi4=is .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	是 一 条 龙 .
+%mor:	v:cop|shi4=is num|yi1=one cl|tiao2 n|long2=dragon .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|CLASS 4|1|PRED 5|1|PUNCT
+*CHI:	龙 [^c] .
+%mor:	n|long2=dragon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	而且 你 知道 怎样 吗 ?
+%mor:	conj|er2qie3=furthermore pro:per|ni3=you v|zhi1dao4=know
+	adv:wh|zen3yang4=no_matter_how sfp|ma ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+*EXP:	这 个 龙 牠 就 跑 到 池塘 里 而且 不 让 其他 动物 在 这 池塘 里 游泳 啊 喝 水 啊 或 做 其他 的 事情 .
+%mor:	det|zhe4=this cl|ge4 n|long2=dragon pro:per|ta1=it_animal
+	adv|jiu4=just v|pao3=run v:resc|dao4=arrive n|chi2tang2=pool
+	post|li3=inside conj|er2qie3=furthermore adv|bu4=not v|rang4=allow
+	pro:dem|qi2ta1=other n|dong4wu4=animal prep|zai4=at
+	pro:dem|zhe4=this n|chi2tang2=pool post|li3=inside v|you2yong3=swim
+	sfp|a1 v|he1=drink n|shui3=water sfp|a1 conj|huo4=or v|zuo4=make
+	pro:dem|qi2ta1=other poss|de n|shi4qing2=matter .
+%gra:	1|3|DET 2|3|CLASS 3|6|SUBJ 4|6|SUBJ 5|6|JCT 6|19|CJCT 7|6|VR 8|9|POSTO
+	9|6|JCT 10|19|LINK 11|12|JCT 12|19|CJCT 13|14|MOD 14|15|SUBJ 15|19|JCT
+	16|17|DET 17|18|POSTO 18|15|PREPO 19|0|ROOT 20|19|SFP 21|19|SRL 22|21|OBJ
+	23|19|SFP 24|25|LINK 25|19|SRL 26|28|MOD 27|26|POSS 28|25|OBJ
+	29|19|PUNCT
+*EXP:	那 你 想 后来 会 怎样 呢 ?
+%mor:	conj|na4=so pro:per|ni3=you v|xiang3=think adv|hou4lai2=later
+	v:resc|hui4=know adv:wh|zen3yang4=no_matter_how sfp|ne ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|5|PREPO 7|3|SFP 8|3|PUNCT
+*CHI:	不 知道 [^c] .
+%mor:	adv|bu4=not v|zhi1dao4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	不 知道 啊 .
+%mor:	adv|bu4=not v|zhi1dao4=know sfp|a1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*EXP:	好 那 你 玩 „ 好不好 ?
+%mor:	adj|hao3=good conj|na4=so pro:per|ni3=you v|wan2=play end|end
+	co:int|hao3bu2hao3=okay ?
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+*CHI:	< 狮子 > [/] 狮子 爸爸 牠 < 会 > [/] 会 咬 牠 [= dragon] [^c] .
+%mor:	n|shi1zi3=lion n:relat|ba4&DIM=father pro:per|ta1=it_animal
+	v:aux|hui4=will v|yao3=bite pro:per|ta1=it_animal .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%act:	points to dragon
+*EXP:	狮子 爸爸 会 咬 牠 .
+%mor:	n|shi1zi3=lion n:relat|ba4&DIM=father v:aux|hui4=will v|yao3=bite
+	pro:per|ta1=it_animal .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*EXP:	还 有 呢 ?
+%mor:	adv|hai2=still v|you3=have sfp|ne ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	还 有 牠 妈妈 [^c] +...
+%mor:	adv|hai2=still v|you3=have pro:per|ta1=it_animal
+	n:relat|ma1&DIM=mother +...
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	touches mommy lion
+%com:	[^c] link
+*EXP:	牠 妈妈 怎样 ?
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother
+	adv:wh|zen3yang4=no_matter_how ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	牠 妈妈 < 会 > [/] 会 < 把 > [/] < 把 > [/] < 把 > [/] 把 那 个 [= dragon] 打 死 [^c] !
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother v:aux|hui4=will
+	prep|ba3=object_marker det|na4=that cl|ge4 v|da3=hit v:resc|si3=die
+	!
+%gra:	1|2|MOD 2|7|SUBJ 3|7|AUX 4|7|JCT 5|6|DET 6|4|PREPO 7|0|ROOT 8|7|VR
+	9|7|PUNCT
+%act:	points to dragon
+*EXP:	把 那 个 打 死 哦 .
+%mor:	prep|ba3=object_marker det|na4=that cl|ge4 v|da3=hit adj|si3=dead
+	sfp|o1 .
+%gra:	1|4|JCT 2|3|DET 3|1|PREPO 4|0|ROOT 5|4|JCT 6|4|SFP 7|4|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*EXP:	哇 .
+%mor:	co|wa1=wah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	还 有 狮子 爸爸 [^c] .
+%mor:	adv|hai2=still v|you3=have n|shi1zi3=lion n:relat|ba4&DIM=father .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*EXP:	还 有 狮子 爸爸 怎样 ?
+%mor:	adv|hai2=still v|you3=have n|shi1zi3=lion n:relat|ba4&DIM=father
+	adv:wh|zen3yang4=no_matter_how ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	也 < 把 牠 > [//] 用 尾巴 把 牠 打 死 掉 [^c] .
+%mor:	adv|ye3=also prep|yong4=with n|wei3ba=tail prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit v:resc|si3=die v:resc|diao4=done .
+%gra:	1|6|JCT 2|6|JCT 3|2|PREPO 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|VR 8|6|VR
+	9|6|PUNCT
+*EXP:	用 尾巴 把 牠 打 死 掉 哦 .
+%mor:	prep|yong4=with n|wei3ba=tail prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit v:resc|si3=die v:resc|diao4=done
+	sfp|o1 .
+%gra:	1|5|JCT 2|1|PREPO 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|VR 7|5|VR 8|5|SFP
+	9|5|PUNCT
+*CHI:	然后 狮子 就 一直 把 牠 打 打 打 [^c] .
+%mor:	conj|ran2hou4=thereupon n|shi1zi3=lion adv|jiu4=just
+	adv|yi1zhi2=continuously prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit v|da3=hit v|da3=hit .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|JCT 4|7|JCT 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|SRL
+	9|8|SRL 10|7|PUNCT
+*CHI:	打 烂 掉 了 [^c] .
+%mor:	v|da3=hit adj|can4=brilliant v:resc|diao4=done asp|le .
+%gra:	1|0|ROOT 2|3|JCT 3|1|VR 4|1|ASP 5|1|PUNCT
+*EXP:	把 牠 打 烂 掉 了 啊 .
+%mor:	prep|ba3=object_marker pro:per|ta1=it_animal v|da3=hit
+	adj|can4=brilliant v:resc|diao4=done asp|le sfp|a1 .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|JCT 5|3|VR 6|3|ASP 7|3|SFP 8|3|PUNCT
+*CHI:	狮子 牠 把 牠 打 烂 掉 了 [^c] .
+%mor:	n|shi1zi3=lion pro:per|ta1=it_animal prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit adj|can4=brilliant v:resc|diao4=done
+	asp|le .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|7|JCT 7|5|VR 8|5|ASP
+	9|5|PUNCT
+%act:	points to dragon
+*CHI:	0 [=! sound effects] [^c] .
+%act:	hitting sounds
+*CHI:	< 牠 小 孩 > [/] 牠 小 孩 去 很 暗 的 地方 [^c] .
+%mor:	pro:per|ta1=it_animal adj|xiao3=small n|hai2=child v:dirc|qu4=go
+	adv|hen3=much adj|an4=unclear nom|de n|di4fang1=place .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|8|MOD 7|6|LINK 8|4|OBJ
+	9|4|PUNCT
+%act:	touches baby lion
+*CHI:	牠 爸爸 会 生气 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v:aux|hui4=will
+	v|sheng1qi4=get_angry .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%act:	touches daddy lion
+*EXP:	那 小 孩 去 很 暗 的 地方 爸爸 会 生气 啊 .
+%mor:	pro:dem|na4=that adj|xiao3=small n|hai2=child v:dirc|qu4=go
+	adv|hen3=much adj|an4=unclear cleft|de n|di4fang1=place
+	n:relat|ba4&DIM=father n|hui4=meeting v|sheng1qi4=get_angry sfp|a1 .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|8|MOD 7|6|LINK 8|10|MOD
+	9|10|MOD 10|11|SUBJ 11|4|SRL 12|11|SFP 13|4|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*EXP:	扬志 你 可以 拿 起来 玩 啊 .
+%mor:	n:prop|yang2zhi4=flag_ambition pro:per|ni3=you v:aux|ke3yi3=may
+	prep|na2=with v:dirc|qi3lai2=get_up v|wan2=play sfp|a1 .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|AUX 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|SFP 8|6|PUNCT
+*EXP:	这 是 阿姨 带 来 给 你 玩 的 .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n:relat|a1yi2=mothers_sister
+	v|dai4=bring v:dirc|lai2=come prep|gei3=for pro:per|ni3=you
+	v|wan2=play cleft|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|VD 6|8|JCT 7|6|PREPO 8|4|SRL
+	9|8|LINK 10|2|PUNCT
+*CHI:	牠 爸爸 去 看 [^c] 那里 有 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v:dirc|qu4=go
+	v|kan4=look post|na4li3=that_place v|you3=have adj|huai4=bad
+	n|ren2=person .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|SRL 5|6|JCT 6|4|COMP 7|8|MOD 8|6|OBJ
+	9|3|PUNCT
+%act:	makes daddy lion move
+*CHI:	牠 爸爸 在 看 [^c] 那里 有 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father adv|zai4=currently
+	v|kan4=look post|na4li3=that_place v|you3=have adj|huai4=bad
+	n|ren2=person .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|COMP 7|8|MOD 8|6|OBJ
+	9|4|PUNCT
+*EXP:	牠 爸爸 在 看 哪里 有 坏 人 啊 .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father adv|zai4=currently
+	v|kan4=look pro:wh|na3li3=where v|you3=have adj|huai4=bad
+	n|ren2=person sfp|a1 .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|COMP 7|8|MOD 8|6|OBJ
+	9|4|SFP 10|4|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	牠 妈妈 在 看 [^c] 牠 们 两 个 [= baby lions] 在 干嘛 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother adv|zai4=currently
+	v|kan4=look pro:per|ta1=it_animal n|men2=group num|liang3=two cl|ge4
+	adv|zai4=currently v|gan4ma2=do_what .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|10|JCT 7|8|QUANT 8|10|SUBJ
+	9|10|JCT 10|4|COMP 11|4|PUNCT
+%act:	touches mommy and baby lions
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	还 有 吗 [^c] ?
+%mor:	adv|hai2=still v|you3=have sfp|ma ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*EXP:	没有 了 .
+%mor:	adv|mei2you3=not_yet asp|le .
+%gra:	1|0|INCROOT 2|1|ASP 3|1|PUNCT
+*EXP:	你 要不要 玩 ?
+%mor:	pro:per|ni3=you v:aux|yao4&DIM=should v|wan2=play ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	要 [^c] .
+%mor:	v|yao4=want .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	哎哟 牠 [= daddy lion] 滑 倒 了 [^c] .
+%mor:	co|ai1yo1=arrgh pro:per|ta1=it_animal v|hua2=slide v|dao4=pour
+	asp|le .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|ASP 6|3|PUNCT
+*CHI:	牠 用 尾巴 打 [^c] 就 < 把 > [/] 把 那 个 < 坏 > [/] 坏 狮子 打 倒 [^c] .
+%mor:	pro:per|ta1=it_animal prep|yong4=with n|wei3ba=tail v|da3=hit
+	adv|jiu4=just prep|ba3=object_marker det|na4=that cl|ge4
+	adj|huai4=bad n|shi1zi3=lion v|da3=hit v|dao4=pour .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|11|JCT 6|11|JCT 7|10|DET
+	8|10|CLASS 9|10|MOD 10|6|PREPO 11|4|SRL 12|11|SRL 13|4|PUNCT
+*CHI:	打 到 下面 去 [^c] .
+%mor:	v|da3=hit v:resc|dao4=arrive post|xia4mian4=below v:dirc|qu4=go .
+%gra:	1|0|ROOT 2|1|VR 3|1|JCT 4|1|VD 5|1|PUNCT
+%act:	points to ground
+*EXP:	真的 啊 ?
+%mor:	adv|zhen1de=really sfp|a1 ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	牠 就 爬 不 上来 了 [^c] .
+%mor:	pro:per|ta1=it_animal adv|jiu4=just v|pa2=crawl adv|bu4=not
+	v:dirc|shang4lai2=up asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|CSUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*EXP:	牠 就 爬 不 上来 了 啊 .
+%mor:	pro:per|ta1=it_animal adv|jiu4=just v|pa2=crawl adv|bu4=not
+	v:dirc|shang4lai2=up asp|le sfp|a1 .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|CSUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|SFP 8|5|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	还 有 呢 ?
+%mor:	adv|hai2=still v|you3=have sfp|ne ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	< 有 > [/] 有 < 马 > [/] 马 贴纸 吗 [^c] ?
+%mor:	v|you3=have n|ma3=horse n|tie1zhi3=sticker sfp|ma ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+*EXP:	马 的 贴纸 啊 ?
+%mor:	n|ma3=horse poss|de n|tie1zhi3=sticker sfp|a1 ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	0 .
+%gpx:	nods
+*EXP:	没有 嗳 .
+%mor:	adv|mei2you3=not_yet co|ai4=surprise .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*EXP:	阿姨 已经 给 别的 小朋友 .
+%mor:	n:relat|a1yi2=mothers_sister adv|yi3jing1=already v|gei3=give
+	adj|bie2de=other n|xiao3peng2you3=little_child .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*EXP:	下次 再 带 给 你 „ 好不好 ?
+%mor:	adv|xia4ci4=next_time adv|zai4=again v|dai4=bring prep|gei3=for
+	pro:per|ni3=you end|end co:int|hao3bu2hao3=okay ?
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|PREPO 6|7|ENDP 7|3|END 8|3|PUNCT
+*CHI:	0 .
+%gpx:	nods
+*EXP:	扬志 你 刚才 还 讲 了 什么 阿姨 没 听 到 .
+%mor:	n:prop|yang2zhi4=flag_ambition pro:per|ni3=you
+	adv|gang1cai2=just_now adv|hai2=still v|jiang3=say asp|le
+	pro:wh|shen2me=what n:relat|a1yi2=mothers_sister adv|mei2=not
+	v|ting1=listen v:resc|dao4=arrive .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|OBJ 8|10|SUBJ
+	9|10|JCT 10|5|SRL 11|10|VR 12|5|PUNCT
+*CHI:	嗯 [^c] +...
+%mor:	co|en1=okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	那 故事 最后 呢 ?
+%mor:	pro:dem|na4=that n|gu4shi4=story n|zui4hou4=final sfp|ne ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*EXP:	故事 最后 怎么 样 ?
+%mor:	n|gu4shi4=story adv|zui4hou4=finally adv:wh|zen3me=how
+	cl|yang4=kind ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|PROOT 5|4|PUNCT
+*CHI:	< 有 > [/] 有 大象 [^c] .
+%mor:	v|you3=have n|da4xiang4=elephant .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*EXP:	故事 最后 有 大象 啊 ?
+%mor:	n|gu4shi4=story adv|zui4hou4=finally v|you3=have
+	n|da4xiang4=elephant sfp|a1 ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+*EXP:	那 故事 最后 怎样 呢 ?
+%mor:	pro:dem|na4=that n|gu4shi4=story adv|zui4hou4=finally
+	adv:wh|zen3yang4=no_matter_how sfp|ne ?
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|SFP 6|4|PUNCT
+*CHI:	还 有 这 个 这 个 这 个 这 个 [^c] .
+%mor:	adv|hai2=still v|you3=have det|zhe4=this cl|ge4 det|zhe4=this
+	cl|ge4 det|zhe4=this cl|ge4 det|zhe4=this cl|ge4 .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|10|CLASS 5|6|DET 6|10|CLASS 7|8|DET
+	8|10|CLASS 9|10|DET 10|2|OBJ 11|2|PUNCT
+%act:	points to pterodactyl , dragon , tree , and lions
+*CHI:	这 只 是 牠 小 孩 [^c] .
+%mor:	det|zhe4=this cl|zhi1 v:cop|shi4=is pro:per|ta1=it_animal
+	adj|xiao3=small n|hai2=child .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|PUNCT
+%act:	puts one baby lion besides daddy lion and the other besides mommy
+	lion
+*EXP:	这 只 是 牠 小 孩 啊 .
+%mor:	det|zhe4=this cl|zhi1 v:cop|shi4=is pro:per|ta1=it_animal
+	adj|xiao3=small n|hai2=child sfp|a1 .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|SFP 8|3|PUNCT
+*CHI:	这 只 是 牠 [= daddy lion] 小 孩 [^c] 这 只 是 牠 [= mommy lion] 小 孩 [^c] .
+%mor:	det|zhe4=this cl|zhi1 v:cop|shi4=is pro:per|ta1=it_animal
+	adj|xiao3=small n|hai2=child det|zhe4=this cl|zhi1 v:cop|shi4=is
+	pro:per|ta1=it_animal adj|xiao3=small n|hai2=child .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|8|DET 8|9|SUBJ
+	9|3|PRED 10|12|MOD 11|12|MOD 12|9|PRED 13|3|PUNCT
+%act:	points to baby , daddy and mommy lions
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 爸爸 很 高 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father adv|hen3=much
+	adj|gao1=tall .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+*CHI:	牠 妈妈 很 矮 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother adv|hen3=much
+	adj|ai3=short .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+*EXP:	哦 牠 妈妈 很 矮 .
+%mor:	co|o1=chant pro:per|ta1=it_animal n:relat|ma1&DIM=mother
+	adv|hen3=much adj|ai3=short .
+%gra:	1|0|INCROOT 2|3|MOD 3|5|SUBJ 4|5|JCT 5|1|COMP 6|1|PUNCT
+*CHI:	(..) < 这 只 > [//] 牠 这 只 < 牠 要 在 > [//] < 牠 > [/] < 牠 > [/] < 牠 > [/] 牠 跟 牠 说 
+	[^c] +"/.
+%mor:	pro:per|ta1=it_animal det|zhe4=this cl|zhi1 pro:per|ta1=it_animal
+	prep|gen1=with pro:per|ta1=it_animal v|shuo1=say +"/.
+%gra:	1|7|SUBJ 2|3|DET 3|7|TOP 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|PUNCT
+%act:	makes one baby lion talk to the other
+*CHI:	+" 你 在 干嘛 [^c] ?
+%mor:	pro:per|ni3=you adv|zai4=currently v|gan4ma2=do_what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	+" < 我 在 > [/] 我 在 这里 [^c] .
+%mor:	pro:per|wo3=I prep|zai4=at post|zhe4li3=here .
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|PREPO 4|2|PUNCT
+*CHI:	xxx .
+*CHI:	牠 想 xxx [^c] .
+%mor:	pro:per|ta1=it_animal v|xiang3=think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	puts baby lions besides mommy and daddy lions
+*CHI:	牠 们 [= lions] 眼睛 是 什么 颜色 [^c] ?
+%mor:	pro:per|ta1=it_animal n|men2=group n|yan3jing1=eye v:cop|shi4=is
+	pro:wh|shen2me=what n|yan2se4=color ?
+%gra:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+*EXP:	啊 ?
+%mor:	sfp|a1 ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	妈妈 眼睛 是 红 的 [^c] .
+%mor:	n:relat|ma1&DIM=mother n|yan3jing1=eye v:cop|shi4=is adj|hong2=red
+	nom|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|LINK 6|3|PUNCT
+%act:	touches mommy lion's eyes
+*CHI:	牠 [= daddy lion] 眼睛 呢 [^c] ?
+%mor:	pro:per|ta1=it_animal n|yan3jing1=eye sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%act:	touches daddy lion's eyes
+*EXP:	牠 眼睛 呢 ?
+%mor:	pro:per|ta1=it_animal n|yan3jing1=eye sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*EXP:	你 看 呢 ?
+%mor:	pro:per|ni3=you v|kan4=look sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	< 黑 > [/] 黑 的 [^c] .
+%mor:	v|hei1=turn_black cleft|de .
+%gra:	1|0|ROOT 2|1|LINK 3|1|PUNCT
+*CHI:	牠 的 眼睛 是 黑 的 [^c] .
+%mor:	pro:per|ta1=it_animal poss|de n|yan3jing1=eye v:cop|shi4=is
+	v|hei1=turn_black cleft|de .
+%gra:	1|3|MOD 2|1|POSS 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|LINK 7|4|PUNCT
+*CHI:	< 牠 > [//] < 牠 是 > [/] (.) 牠 [= baby lion] 是 (.) 黑 的 [^c] .
+%mor:	pro:per|ta1=it_animal v:cop|shi4=is v|hei1=turn_black cleft|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|LINK 5|2|PUNCT
+%act:	touches baby lion's eyes
+*CHI:	牠 们 [= daddy and baby lions] 三 个 都 是 黑 的 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group num|san1=three cl|ge4
+	adv|dou1=all v:cop|shi4=is v|hei1=turn_black cleft|de .
+%gra:	1|2|MOD 2|6|SUBJ 3|4|QUANT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PRED 8|7|LINK
+	9|6|PUNCT
+%act:	point to daddy and baby lions
+*EXP:	哦 牠 们 三 个 都 是 黑 的 .
+%mor:	co|o1=chant pro:per|ta1=it_animal n|men2=group num|san1=three
+	cl|ge4 adv|dou1=all v:cop|shi4=is v|hei1=turn_black cleft|de .
+%gra:	1|0|INCROOT 2|3|MOD 3|7|SUBJ 4|5|QUANT 5|7|SUBJ 6|7|JCT 7|1|COMP
+	8|7|PRED 9|8|LINK 10|1|PUNCT
+*CHI:	只 有 妈妈 不 是 黑 的 [^c] .
+%mor:	adv|zhi3=only v|you3=have n:relat|ma1&DIM=mother adv|bu4=not
+	v:cop|shi4=is v|hei1=turn_black cleft|de .
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|COMP 6|5|PRED 7|6|LINK 8|2|PUNCT
+%act:	touches mommy lion's eyes
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	妈妈 是 红 的 [^c] .
+%mor:	n:relat|ma1&DIM=mother v:cop|shi4=is adj|hong2=red nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|LINK 5|2|PUNCT
+*EXP:	牠 妈妈 是 红 的 .
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother v:cop|shi4=is
+	adj|hong2=red nom|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|LINK 6|3|PUNCT
+*CHI:	< 牠 爸爸 在 > [//] (.) 牠 爸爸 生气 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v|sheng1qi4=get_angry
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	touches daddy lion
+*EXP:	牠 爸爸 生气 啊 .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v|sheng1qi4=get_angry
+	sfp|a1 .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|SFP 5|3|PUNCT
+*CHI:	牠 爸爸 < 生 > [/] 生气 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v|sheng1qi4=get_angry
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	要 打 坏 人 了 [^c] .
+%mor:	v:aux|yao4=should v|da3=hit adj|huai4=bad n|ren2=person asp|le .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|ASP 6|2|PUNCT
+*CHI:	牠 爸爸 要 去 很 远 [^c] 打 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v:aux|yao4=should
+	v:dirc|qu4=go adv|hen3=much adj|yuan3=distant v|da3=hit
+	adj|huai4=bad n|ren2=person .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|7|JCT 7|4|SRL 8|9|MOD
+	9|7|OBJ 10|4|PUNCT
+*EXP:	要 去 很 远 的 地方 打 坏 人 .
+%mor:	v:aux|yao4=should v:dirc|qu4=go adv|hen3=much adj|yuan3=distant
+	cleft|de n|di4fang1=place v|da3=hit adj|huai4=bad n|ren2=person .
+%gra:	1|2|AUX 2|0|ROOT 3|4|JCT 4|6|MOD 5|4|LINK 6|7|SUBJ 7|2|SRL 8|9|MOD
+	9|7|OBJ 10|2|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	用 尾巴 这样子 [^c] .
+%mor:	prep|yong4=with n|wei3ba=tail adv|zhe4yang4zi=like_this .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|JCT 4|1|PUNCT
+%act:	touches daddy lion's tail
+*CHI:	0 [=! sound effects] [^c] .
+%com:	hitting sounds
+*CHI:	把 牠 打 下去 [^c] .
+%mor:	prep|ba3=object_marker pro:per|ta1=it_animal v|da3=hit
+	v:dirc|xia4qu4=down .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|VD 5|3|PUNCT
+*EXP:	真的 啊 .
+%mor:	adv|zhen1de=really sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	树 xxx 倒 掉 了 [^c] .
+%mor:	n|shu4=tree v|dao4=pour v:resc|diao4=done asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%act:	makes tree fall down
+*EXP:	树 < 倒 掉 了 > [>] .
+%mor:	n|shu4=tree v|dao4=pour v:resc|diao4=done asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*CHI:	< 倒 下 > [<] [^c] .
+%mor:	adv|dao4=actually adj|xia4=next .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	只 有 两 棵 没有 [^c] .
+%mor:	adv|zhi3=only v|you3=have num|liang3=two cl|ke1
+	adv|mei2you3=not_yet .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|JCT 6|2|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	这 [= leaves] 可以 拔 下来 吗 [^c] ?
+%mor:	pro:dem|zhe4=this v:aux|ke3yi3=may v|ba2=pull v:dirc|xia4lai2=down
+	sfp|ma ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|VD 5|3|SFP 6|3|PUNCT
+%act:	touches leaves
+*EXP:	你 拔 得 下来 吗 ?
+%mor:	pro:per|ni3=you v|ba2=pull stative|de=be_able_to
+	v:dirc|xia4lai2=down sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LINK 4|2|VD 5|2|SFP 6|2|PUNCT
+*EXP:	不 可以 哦 .
+%mor:	adv|bu4=not v:aux|ke3yi3=may sfp|o1 .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*EXP:	扬志 那 故事 最后 怎样 ?
+%mor:	n:prop|yang2zhi4=flag_ambition pro:dem|na4=that n|gu4shi4=story
+	adv|zui4hou4=finally adv:wh|zen3yang4=no_matter_how ?
+%gra:	1|3|MOD 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|PROOT 6|5|PUNCT
+*CHI:	有 这 只 [^c] .
+%mor:	v|you3=have det|zhe4=this cl|zhi1 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%act:	points to pterodactyl
+*EXP:	有 这 只 啊 .
+%mor:	v|you3=have det|zhe4=this cl|zhi1 sfp|a1 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|SFP 5|1|PUNCT
+*CHI:	大象 牙齿 出来 的 [^c] .
+%mor:	n|da4xiang4=elephant n|ya2chi3=tooth v:dirc|chu1lai2=go_out poss|de
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%act:	touches elephant's teeth
+*EXP:	大象 牙齿 出来 的 啊 .
+%mor:	n|da4xiang4=elephant n|ya2chi3=tooth v:dirc|chu1lai2=go_out
+	cleft|de sfp|a1 .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|LINK 5|3|SFP 6|3|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	大象 牙齿 在 这里 [^c] .
+%mor:	n|da4xiang4=elephant n|ya2chi3=tooth prep|zai4=at post|zhe4li3=here
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|PROOT 4|3|PREPO 5|3|PUNCT
+%act:	touches elephant's teeth
+*EXP:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 们 都 会 走 这么 大 声 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group adv|dou1=all v:resc|hui4=know
+	v:dirc|zou3=go_away adv|zhe4me=like_this adj|da4=great
+	n|sheng1=sound .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|VD 6|7|JCT 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*EXP:	牠 们 都 会 怎样 ?
+%mor:	pro:per|ta1=it_animal n|men2=group adv|dou1=all v:resc|hui4=know
+	adv:wh|zen3yang4=no_matter_how ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	走 这么 大 声 [^c] .
+%mor:	v:dirc|zou3=go_away adv|zhe4me=like_this adj|da4=great
+	n|sheng1=sound .
+%gra:	1|0|ROOT 2|3|JCT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	牠 爸爸 会 走 这么 大 声 踫 踫 踫 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ba4&DIM=father v:aux|hui4=will
+	v:dirc|zou3=go_away adv|zhe4me=like_this adj|da4=great
+	n|sheng1=sound on|peng4=bump on|peng4=bump on|peng4=bump .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|7|MOD 7|4|OBJ 8|4|SRL
+	9|8|POSS 10|9|END 11|4|PUNCT
+*EXP:	哦 牠 爸爸 会 走 这么 大 声 踫 踫 踫 .
+%mor:	co|o1=chant pro:per|ta1=it_animal n:relat|ba4&DIM=father
+	v:aux|hui4=will v:dirc|zou3=go_away adv|zhe4me=like_this
+	adj|da4=great n|sheng1=sound on|peng4=bump on|peng4=bump
+	on|peng4=bump .
+%gra:	1|5|JCT 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|JCT 7|8|MOD 8|5|OBJ
+	9|5|SRL 10|9|POSS 11|10|END 12|5|PUNCT
+*CHI:	< 小 大 > [//] < 小 > [//] 大象 的 爸爸 (.) 走 得 大 声 又 [^c] +...
+%mor:	n|da4xiang4=elephant poss|de n:relat|ba4&DIM=father
+	v:dirc|zou3=go_away v:resc|de2=get adj|da4=great n|sheng1=sound
+	adv|you4=again +...
+%gra:	1|3|MOD 2|1|POSS 3|4|SUBJ 4|0|ROOT 5|4|SRL 6|7|MOD 7|5|OBJ 8|4|JCT
+	9|4|PUNCT
+%act:	touches elpehant
+*CHI:	很 大 声 [^c] .
+%mor:	adv|hen3=much adj|da4=great n|sheng1=sound .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	倒 掉 一 棵 树 了 [^c] .
+%mor:	v|dao4=pour v:resc|diao4=done num|yi1=one cl|ke1 n|shu4=tree asp|le
+	.
+%gra:	1|0|ROOT 2|1|VR 3|4|QUANT 4|5|CLASS 5|1|OBJ 6|1|ASP 7|1|PUNCT
+%act:	touches tree which is fallen
+*CHI:	这 什么 啊 [^c] ?
+%mor:	pro:dem|zhe4=this pro:wh|shen2me=what sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|SFP 4|2|PUNCT
+%act:	touches tree
+*CHI:	这 像 一 个 什么 [^c] ?
+%mor:	pro:dem|zhe4=this v|xiang4=be_like num|yi1=one cl|ge4
+	pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|OBJ 6|2|PUNCT
+%act:	points to stand of tree
+*EXP:	你 说 呢 ?
+%mor:	pro:per|ni3=you v|shuo1=say sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*EXP:	你 看 那 是 什么 呢 ?
+%mor:	pro:per|ni3=you v|kan4=look pro:dem|na4=that v:cop|shi4=is
+	pro:wh|shen2me=what sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|SFP 7|2|PUNCT
+*CHI:	不 知道 [^c] .
+%mor:	adv|bu4=not v|zhi1dao4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*EXP:	扬志 你 刚刚 说 故事 最后 怎样 ?
+%mor:	n:prop|yang2zhi4=flag_ambition pro:per|ni3=you adv|gang1&DIM=just
+	v|shuo1=say n|gu4shi4=story adv|zui4hou4=finally
+	adv:wh|zen3yang4=no_matter_how ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|7|CSUBJ 5|4|OBJ 6|7|JCT 7|0|INCROOT
+	8|7|PUNCT
+*CHI:	牠 们 两 个 [= daddy lion and elephant] 走 得 好 大 声 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group num|liang3=two cl|ge4
+	v:dirc|zou3=go_away stative|de=be_able_to adv|hao3=very
+	adj|da4=great n|sheng1=sound .
+%gra:	1|2|MOD 2|5|SUBJ 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|LINK 7|8|JCT 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+%act:	points to daddy lion and elephant
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 [= daddy lion] 跑 得 快 [^c] .
+%mor:	pro:per|ta1=it_animal v|pao3=run stative|de=be_able_to
+	adv|kuai4=quickly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LINK 4|2|JCT 5|2|PUNCT
+%act:	points to daddy lion
+*CHI:	< 牠 也 > [//] 牠 [= elephant] 跑 得 慢 [^c] .
+%mor:	pro:per|ta1=it_animal v|pao3=run stative|de=be_able_to
+	adj|man4=slow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LINK 4|2|JCT 5|2|PUNCT
+%act:	touches elephant
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	< 牠 > [/] < 牠 > [/] < 牠 > [/] 牠 [= mommy lion] 很 生气 [^c] .
+%mor:	pro:per|ta1=it_animal adv|hen3=much v|sheng1qi4=get_angry .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%act:	touches mommy lion
+*CHI:	然后 (.) 那 个 跑 很 快 [^c] < 就 > [//] 牠 [= daddy lion] < 就 跳 下去 > [//] 就 跳 
+	起来 [^c] 然后 打 牠 [= mommy lion] [^c] .
+%mor:	conj|ran2hou4=thereupon det|na4=that cl|ge4 v|pao3=run
+	adv|hen3=much adv|kuai4=quickly pro:per|ta1=it_animal adv|jiu4=just
+	v|tiao4=jump v:dirc|qi3lai2=get_up conj|ran2hou4=thereupon v|da3=hit
+	pro:per|ta1=it_animal .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|9|JCT 6|9|JCT 7|9|SUBJ 8|9|JCT
+	9|4|SRL 10|9|VD 11|12|LINK 12|9|SRL 13|12|OBJ 14|4|PUNCT
+%act:	grabs daddy lion and makes him hit mommy lion
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	倒 掉 了 [^c] .
+%mor:	v|dao4=pour v:resc|diao4=done asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+%act:	moves tree
+*EXP:	扬志 那 不 玩 了 „ 好不好 ?
+%mor:	n:prop|yang2zhi4=flag_ambition pro:dem|na4=that adv|bu4=not
+	v|wan2=play asp|le end|end co:int|hao3bu2hao3=okay ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|ASP 6|7|ENDP 7|4|END 8|4|PUNCT
+*CHI:	啊 [^c] ?
+%mor:	sfp|a1 ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	你 还 要 玩 吗 ?
+%mor:	pro:per|ni3=you adv|hai2=still v:aux|yao4=should v|wan2=play sfp|ma
+	?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|SFP 6|4|PUNCT
+*EXP:	哦 你 还 要 玩 啊 .
+%mor:	co|o1=chant pro:per|ni3=you adv|hai2=still v:aux|yao4=should
+	v|wan2=play sfp|a1 .
+%gra:	1|5|TOP 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|SFP 7|5|PUNCT
+*EXP:	哦 好 .
+%mor:	co|o1=chant adj|hao3=good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*EXP:	那 你 跟 阿姨 讲 故事 最后 怎样 ?
+%mor:	conj|na4=so pro:per|ni3=you prep|gen1=with
+	n:relat|a1yi2=mothers_sister v|jiang3=say n|gu4shi4=story
+	adv|zui4hou4=finally adv:wh|zen3yang4=no_matter_how ?
+%gra:	1|8|LINK 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|8|CJCT 6|5|OBJ 7|8|JCT
+	8|0|INCROOT 9|8|PUNCT
+*CHI:	xxx < 牠 > [/] 牠 们 几 个 < 都 很 > [//] 走路 这么 大 声 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group num|ji3=some cl|ge4
+	v|zou3lu4=walk adv|zhe4me=like_this adj|da4=great n|sheng1=sound .
+%gra:	1|2|MOD 2|5|SUBJ 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	小 Simba 长 大 [^c] < 会 > [/] < 会 > [/] < 会 > [/] < 会 > [/] 会 再 生 一 个 小 孩 [^c]
+	.
+%mor:	adj|xiao3=small n:prop|Simba v|zhang3=grow adj|da4=great
+	v:resc|hui4=know adv|zai4=again v|sheng1=give_birth_to num|yi1=one
+	cl|ge4 adj|xiao3=small n|hai2=child .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|7|JCT 5|4|VR 6|7|JCT 7|3|COBJ 8|9|QUANT
+	9|11|CLASS 10|11|MOD 11|7|OBJ 12|3|PUNCT
+%act:	touches baby lion
+*EXP:	会 再 生 一 个 小 孩 啊 .
+%mor:	v:resc|hui4=know adv|zai4=again v|sheng1=give_birth_to num|yi1=one
+	cl|ge4 adj|xiao3=small n|hai2=child sfp|a1 .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|7|CLASS 6|7|MOD 7|3|OBJ 8|3|SFP
+	9|3|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	< 牠 们 > [/] < 牠 > [/] 牠 们 有 两 个 小 孩 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group v|you3=have num|liang3=two
+	cl|ge4 adj|xiao3=small n|hai2=child .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|7|CLASS 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*EXP:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	这 是 什么 恐龙 啊 [^c] ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shen2me=what
+	n|kong3long2=dinosaur sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|SFP 6|2|PUNCT
+%act:	takes pterodactyl up
+*CHI:	什么 小 鸟 啊 [^c] .
+%mor:	pro:wh|shen2me=what adj|xiao3=small n|niao3=bird sfp|a1 .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	我们 恐龙 历险 记 的 书 被 人家 撕 破 了 „ 对不对 [^c] ?
+%mor:	pro:per|wo3-PL=I n|kong3long2=dinosaur
+	v|li4xian3=experience_adventures v|ji4=note cleft|de n|shu1=book
+	prep|bei4=by pro:per|ren2jia1=people v|si1=tear adj|po4=broken
+	asp|le end|end adj|dui4&QUE=correct ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|6|CMOD 5|4|LINK 6|3|OBJ 7|9|JCT 8|7|PREPO
+	9|3|SRL 10|9|JCT 11|3|ASP 12|13|ENDP 13|3|END 14|3|PUNCT
+%com:	talks to another child
+*CHI:	找 不 到 了 [^c] .
+%mor:	v|zhao3=search adv|bu4=not v:resc|dao4=arrive asp|le .
+%gra:	1|0|ROOT 2|3|JCT 3|1|VR 4|1|ASP 5|1|PUNCT
+*EXP:	真的 哦 .
+%mor:	adv|zhen1de=really sfp|o1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	这 是 牠 朋友 [^c] .
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:per|ta1=it_animal
+	n|peng2you3=friend .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%act:	puts baby lion besides daddy lion
+*CHI:	< 牠 们 > [/] < 牠 们 > [/] 牠 们 [= baby lions] < 都 在 > [/] (.) 都 在 看 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group adv|dou1=all adv|zai4=currently
+	v|kan4=look adj|huai4=bad n|ren2=person .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*EXP:	都 在 看 坏 人 啊 .
+%mor:	adv|dou1=all adv|zai4=currently v|kan4=look adj|huai4=bad
+	n|ren2=person sfp|a1 .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|SFP 7|3|PUNCT
+*CHI:	对 [^c] .
+%mor:	adj|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 [= mommy lion] 在 < 看 > [/] < 看 > [/] 看 这 边 的 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal adv|zai4=currently v|kan4=look
+	pro:dem|zhe4=this n|bian1=side poss|de adj|huai4=bad n|ren2=person .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|8|MOD 6|5|POSS 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+%act:	makes mommy and baby lions look at different directions
+*EXP:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	坏 人 跳 这样子 上来 [^c] .
+%mor:	adj|huai4=bad n|ren2=person v|tiao4=jump adv|zhe4yang4zi=like_this
+	v:dirc|shang4lai2=up .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|VD 6|3|PUNCT
+*CHI:	牠 就 把 牠 打 下去 [^c] .
+%mor:	pro:per|ta1=it_animal adv|jiu4=just prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit v:dirc|xia4qu4=down .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|VD 7|5|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	打 到 椅子 上面 [^c] .
+%mor:	v|da3=hit v:resc|dao4=arrive n|yi3zi=chair post|shang4mian4=above .
+%gra:	1|0|ROOT 2|1|VR 3|4|POSTO 4|1|JCT 5|1|PUNCT
+*EXP:	打 到 椅子 上面 啊 .
+%mor:	v|da3=hit v:resc|dao4=arrive n|yi3zi=chair post|shang4mian4=above
+	sfp|a1 .
+%gra:	1|0|ROOT 2|1|VR 3|4|POSTO 4|1|JCT 5|1|SFP 6|1|PUNCT
+*CHI:	狮子 爸爸 把 牠 打 到 (.) 下面 [^c] .
+%mor:	n|shi1zi3=lion n:relat|ba4&DIM=father prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit v:resc|dao4=arrive
+	post|xia4mian4=below .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|VR 7|5|JCT 8|5|PUNCT
+%act:	points to ground
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 们 都 没 穿 衣服 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group adv|dou1=all adv|mei2=not
+	v|chuan1=put_on n|yi1fu2=clothes .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*EXP:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 [= daddy lion] 脚 很 大 [^c] .
+%mor:	pro:per|ta1=it_animal n|jiao3=foot adv|hen3=much adj|da4=great .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+%act:	touches daddy lion
+*CHI:	牠 会 踩 大 脚印 [^c] .
+%mor:	pro:per|ta1=it_animal v:aux|hui4=will v|cai3=tread adj|da4=great
+	n|jiao3yin4=footprint .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%act:	puts his hand on jungle floor heavily
+*CHI:	牠 的 大 脚印 .
+%mor:	pro:per|ta1=it_animal poss|de adj|da4=great n|jiao3yin4=footprint .
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*EXP:	真的 啊 .
+%mor:	adv|zhen1de=really sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	< 牠 又 > [/] < 牠 又 > [/] < 牠 又 砍 > [//] 牠 又 弄 一 个 树 [^c] .
+%mor:	pro:per|ta1=it_animal adv|you4=again v|nong4=make num|yi1=one
+	cl|ge4 n|shu4=tree .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|6|CLASS 6|3|OBJ 7|3|PUNCT
+%act:	sets tree up
+*CHI:	又 砍 掉 了 [^c] .
+%mor:	adv|you4=again v|kan3=chop v:resc|diao4=done asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%act:	tree falls down again
+*CHI:	砍 掉 了 [^c] .
+%mor:	v|kan3=chop v:resc|diao4=done asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+*CHI:	只 剩 两 棵 树 [^c] .
+%mor:	adv|zhi3=only v|sheng4=leave num|liang3=two cl|ke1 n|shu4=tree .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|OBJ 6|2|PUNCT
+*CHI:	这 些 动物 < 都 > [//] (.) < 牠 们 都 会 > [/] 牠 们 都 会 < 咬 > [/] 咬 那 个 坏 人 受伤 [^c] .
+%mor:	pro:dem|zhe4=this quant|xie1=proximation n|dong4wu4=animal
+	pro:per|ta1=it_animal n|men2=group adv|dou1=all v:aux|hui4=will
+	v|yao3=bite det|na4=that cl|ge4 adj|huai4=bad n|ren2=person
+	v|shou4shang1=get_injured .
+%gra:	1|5|DET 2|5|CLASS 3|5|MOD 4|5|MOD 5|8|SUBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|12|DET 10|12|CLASS 11|12|MOD 12|8|OBJ 13|8|SRL 14|8|PUNCT
+%act:	touches mommy and daddy lions
+*EXP:	都 会 咬 坏 人 受伤 .
+%mor:	adv|dou1=all v:aux|hui4=will v|yao3=bite adj|huai4=bad
+	n|ren2=person v|shou4shang1=get_injured .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|SRL 7|3|PUNCT
+*CHI:	牠 们 两 个 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group num|liang3=two cl|ge4 .
+%gra:	1|2|MOD 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*CHI:	就 大象 不 会 [^c] .
+%mor:	adv|jiu4=just n|da4xiang4=elephant adv|bu4=not v:resc|hui4=know .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%act:	touches elephant
+*CHI:	大象 已经 xxx [^c] .
+%mor:	n|da4xiang4=elephant adv|yi3jing1=already .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*CHI:	大象 眼睛 < 破 掉 > [?] 了 [^c] .
+%mor:	n|da4xiang4=elephant n|yan3jing1=eye adj|po4=broken
+	v:resc|diao4=done asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+*CHI:	狮子 王 里面 的 大象 也 是 紫色 的 [^c] .
+%mor:	n|shi1zi3=lion n|wang2=king post|li3mian4=inside poss|de
+	n|da4xiang4=elephant adv|ye3=also v:cop|shi4=is adj|zi3se4=purple
+	nom|de .
+%gra:	1|2|MOD 2|3|POSTO 3|5|MOD 4|3|POSS 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|PRED
+	9|8|LINK 10|7|PUNCT
+*EXP:	什么 里面 ?
+%mor:	adv:wh|shen2me=what post|li3mian4=inside ?
+%gra:	1|2|POSTO 2|0|INCROOT 3|2|PUNCT
+*EXP:	狮子 王 里面 啊 ?
+%mor:	n|shi1zi3=lion n|wang2=king post|li3mian4=inside sfp|a1 ?
+%gra:	1|2|MOD 2|3|POSTO 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	对 啊 [^c] .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	狮子 王 里面 的 大象 把 那 小 鸟 这样子 [^c] .
+%mor:	n|shi1zi3=lion n|wang2=king post|li3mian4=inside poss|de
+	n|da4xiang4=elephant v|ba3=hold pro:dem|na4=that adj|xiao3=small
+	n|niao3=bird adv|zhe4yang4zi=like_this .
+%gra:	1|2|MOD 2|3|POSTO 3|5|MOD 4|3|POSS 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|6|PUNCT
+%act:	touches elephant's trunk
+*CHI:	0 [=! sound effects] [^c] .
+%com:	hitting sounds
+*CHI:	用 鼻子 把 牠 打 走 [^c] .
+%mor:	prep|yong4=with n|bi2zi=nose prep|ba3=object_marker
+	pro:per|ta1=it_animal v|da3=hit v:dirc|zou3=go_away .
+%gra:	1|5|JCT 2|1|PREPO 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|VD 7|5|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 弄 牠 耳朵 „ 对不对 [^c] ?
+%mor:	pro:per|ta1=it_animal v|nong4=make pro:per|ta1=it_animal
+	n|er3duo3=ear end|end adj|dui4&QUE=correct ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|ENDP 6|2|END 7|2|PUNCT
+%act:	touches elephant's ears
+*CHI:	那 个 动物园 里面 那里 也 有 大象 [^c] 是 灰 的 [^c] .
+%mor:	det|na4=that cl|ge4 n|dong4wu4yuan2=zoo post|li3mian4=inside
+	post|na4li3=that_place adv|ye3=also v|you3=have n|da4xiang4=elephant
+	v:cop|shi4=is adj|hui1=grey poss|de .
+%gra:	1|3|DET 2|3|CLASS 3|4|POSTO 4|7|JCT 5|7|JCT 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|SRL 10|9|PRED 11|10|POSS 12|7|PUNCT
+*EXP:	真的 啊 .
+%mor:	adv|zhen1de=really sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	嗯 [^c] .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	没有 狮子 王 [^c] .
+%mor:	v|mei2you3=not_have n|shi1zi3=lion n|wang2=king .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	有 斑马 [^c] 有 长颈鹿 [^c] .
+%mor:	v|you3=have n|ban1ma3=zebra v|you3=have n|chang2jing3lu4=giraffe .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*CHI:	(.) < 还 有 > [/] (.) 还 有 大象 [^c] .
+%mor:	adv|hai2=still v|you3=have n|da4xiang4=elephant .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	没有 长颈鹿 啊 [^c] .
+%mor:	v|mei2you3=not_have n|chang2jing3lu4=giraffe sfp|a1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+*EXP:	没有 长颈鹿 .
+%mor:	v|mei2you3=not_have n|chang2jing3lu4=giraffe .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	砍 掉 两 棵 树 [^c] .
+%mor:	v|kan3=chop v:resc|diao4=done num|liang3=two cl|ke1 n|shu4=tree .
+%gra:	1|0|ROOT 2|1|VR 3|4|QUANT 4|5|CLASS 5|1|OBJ 6|1|PUNCT
+%act:	CHI hits another tree down
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	< 只 > [/] 只 剩 一 棵 树 [^c] .
+%mor:	adv|zhi3=only v|sheng4=leave num|yi1=one cl|ke1 n|shu4=tree .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|OBJ 6|2|PUNCT
+%act:	touches the tree which is not falling
+*CHI:	一 棵 树 不 会 被 砍 掉 [^c] .
+%mor:	num|yi1=one cl|ke1 n|shu4=tree adv|bu4=not v:aux|hui4=will
+	prep|bei4=by v|kan3=chop v:resc|diao4=done .
+%gra:	1|2|QUANT 2|3|CLASS 3|7|SUBJ 4|5|JCT 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|VR
+	9|7|PUNCT
+*CHI:	它 很 硬 [^c] .
+%mor:	pro:per|ta1=it adv|hen3=much adv|ying4=doggedly .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|PROOT 4|3|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 [=! sound effects] [^c] .
+%act:	daddy lion wrinkles jungle floor
+*CHI:	再 拿 一 块 [^c] .
+%mor:	adv|zai4=again v|na2=hold num|yi1=one cl|kuai4 .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	谁 啊 [^c] ?
+%mor:	pro:wh|shei2=who sfp|a1 ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	CHI shouts to the door
+*CHI:	怎么 这么 大 声 啊 [^c] ?
+%mor:	adv:wh|zen3me=how adv|zhe4me=like_this adj|da4=great n|sheng1=sound
+	sfp|a1 ?
+%gra:	1|4|JCT 2|3|JCT 3|4|MOD 4|0|INCROOT 5|4|SFP 6|4|PUNCT
+*CHI:	牠 狮子 爸爸 (.) 跳 下去 [^c] 打 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal n|shi1zi3=lion n:relat|ba4&DIM=father
+	v|tiao4=jump v:dirc|xia4qu4=down v|da3=hit adj|huai4=bad
+	n|ren2=person .
+%gra:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|VD 6|4|SRL 7|8|MOD 8|6|OBJ
+	9|4|PUNCT
+%act:	CHI kneels down and puts daddy lion on ground
+*CHI:	牠 跳 上来 [^c] .
+%mor:	pro:per|ta1=it_animal v|tiao4=jump v:dirc|shang4lai2=up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|PUNCT
+%act:	makes daddy lion jumps up with mommy lion
+*CHI:	最后 剩 狮子 爸爸 [^c] .
+%mor:	adv|zui4hou4=finally v|sheng4=leave n|shi1zi3=lion
+	n:relat|ba4&DIM=father .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	喂 [^c] .
+%mor:	v|wei4=feed .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	那 个 狮子 王 跟 妈妈 还 有 爸爸 走 下去 [^c] .
+%mor:	det|na4=that cl|ge4 n|shi1zi3=lion n|wang2=king prep|gen1=with
+	n:relat|ma1&DIM=mother adv|hai2=still v|you3=have
+	n:relat|ba4&DIM=father v:dirc|zou3=go_away v:dirc|xia4qu4=down .
+%gra:	1|4|DET 2|4|CLASS 3|4|MOD 4|8|SUBJ 5|8|JCT 6|5|PREPO 7|8|JCT 8|0|ROOT
+	9|10|SUBJ 10|8|COMP 11|10|VD 12|8|PUNCT
+*CHI:	狮子 王 爸爸 < 就 > [/] 就 赢 了 [^c] .
+%mor:	n|shi1zi3=lion n|wang2=king n:relat|ba4&DIM=father adv|jiu4=just
+	v|ying2=win asp|le .
+%gra:	1|2|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*CHI:	就 < 这样子 > [/] 这样子 赢 了 [^c] .
+%mor:	adv|jiu4=just adv|zhe4yang4zi=like_this v|ying2=win asp|le .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|ASP 5|3|PUNCT
+%act:	daddy lion rides on mommy lion
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	然后 狮子 王 妈妈 舔 牠 眼睛 那里 下面 [^c] .
+%mor:	conj|ran2hou4=thereupon n|shi1zi3=lion n|wang2=king
+	n:relat|ma1&DIM=mother v|tian3=lick pro:per|ta1=it_animal
+	n|yan3jing1=eye post|na4li3=that_place post|xia4mian4=below .
+%gra:	1|5|LINK 2|3|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|8|POSTO 8|5|JCT
+	9|5|JCT 10|5|PUNCT
+%act:	mommy lion licks daddy lion off jungle floor
+%com:	CHI is out of screen
+*CHI:	< 这 什么 > [/] 这 什么 贴纸 啊 [^c] ?
+%mor:	pro:dem|zhe4=this pro:wh|shen2me=what n|tie1zhi3=sticker sfp|a1 ?
+%gra:	1|3|SUBJ 2|3|MOD 3|0|PROOT 4|3|SFP 5|3|PUNCT
+*CHI:	< 小 鸟 > [/] 小 鸟 飞 上 去 了 [^c] .
+%mor:	adj|xiao3=small n|niao3=bird v:resc|fei1=fly_away
+	v:dirc|shang4=go_up v:dirc|qu4=go asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|VD 6|3|ASP 7|3|PUNCT
+%act:	makes pterodactyl fly in air
+*EXP:	小 鸟 飞 上 去 了 .
+%mor:	adj|xiao3=small n|niao3=bird v:resc|fei1=fly_away
+	v:dirc|shang4=go_up v:dirc|qu4=go asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|VD 6|3|ASP 7|3|PUNCT
+*CHI:	0 .
+%act:	puts daddy and mommy lion back on jungle floor
+*CHI:	牠 [= baby lion] 在 睡 这 (.) 中间 [^c] .
+%mor:	pro:per|ta1=it_animal adv|zai4=currently v|shui4=sleep
+	pro:dem|zhe4=this n|zhong1jian1=center .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	puts baby lion between two trees
+*CHI:	牠 在 睡 中间 [^c] .
+%mor:	pro:per|ta1=it_animal adv|zai4=currently v|shui4=sleep
+	n|zhong1jian1=center .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	sets the two trees up
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	这 里面 是 牠 的 家 [^c] .
+%mor:	pro:dem|zhe4=this post|li3mian4=inside v:cop|shi4=is
+	pro:per|ta1=it_animal poss|de n|jia1=family .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|3|PUNCT
+*CHI:	不 能 进去 [^c] .
+%mor:	adv|bu4=not v:aux|neng2=can v:dirc|jin4qu4=inside .
+%gra:	1|2|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	只 有 妈 妈 在 家 [^c] .
+%mor:	adv|zhi3=only v|you3=have n:relat|ma1=mother n:relat|ma1=mother
+	v|zai4=exist n|jia1=family .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*CHI:	那 小 孩 也 在 家 [^c] .
+%mor:	pro:dem|na4=that adj|xiao3=small n|hai2=child adv|ye3=also
+	v|zai4=exist n|jia1=family .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%act:	puts baby lions besides mommy and daddy lions
+*CHI:	爸爸 也 在 家 [^c] .
+%mor:	n:relat|ba4&DIM=father adv|ye3=also v|zai4=exist n|jia1=family .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	剩 大象 不 在 家 [^c] .
+%mor:	v|sheng4=leave n|da4xiang4=elephant adv|bu4=not v|zai4=exist
+	n|jia1=family .
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|JCT 4|1|COMP 5|4|OBJ 6|1|PUNCT
+%act:	touches elephant
+*CHI:	牠 们 在 看 坏 人 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group adv|zai4=currently v|kan4=look
+	adj|huai4=bad n|ren2=person .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%com:	might refer to elephant and pterodactyl
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	有 一 个 狮子 要 走 了 [^c] .
+%mor:	v|you3=have num|yi1=one cl|ge4 n|shi1zi3=lion v:aux|yao4=should
+	v:dirc|zou3=go_away asp|le .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|CLASS 4|6|SUBJ 5|6|AUX 6|1|COMP 7|1|ASP
+	8|1|PUNCT
+%act:	moves daddy lion
+*CHI:	哎哟 掉 下去 了 [^c] .
+%mor:	co|ai1yo1=arrgh v:resc|diao4=done v:dirc|xia4qu4=down asp|le .
+%gra:	1|0|INCROOT 2|1|VR 3|1|VD 4|1|ASP 5|1|PUNCT
+%act:	daddy lion seems to fall down off table
+*EXP:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	冲 下去 [^c] .
+%mor:	v|chong1=charge v:dirc|xia4qu4=down .
+%gra:	1|0|ROOT 2|1|VD 3|1|PUNCT
+%act:	puts daddy lion on ground
+*CHI:	还 有 妈妈 也 冲 下去 [^c] .
+%mor:	adv|hai2=still v|you3=have n:relat|ma1&DIM=mother adv|ye3=also
+	v|chong1=charge v:dirc|xia4qu4=down .
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|COMP 6|5|VD 7|2|PUNCT
+%act:	puts mommy lion on ground
+*EXP:	哦 妈妈 冲 下去 .
+%mor:	co|o1=chant n:relat|ma1&DIM=mother v|chong1=charge
+	v:dirc|xia4qu4=down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+*CHI:	妈妈 xxx 爸爸 就 生气 [^c] .
+%mor:	n:relat|ma1&DIM=mother n:relat|ba4&DIM=father adv|jiu4=just
+	v|sheng1qi4=get_angry .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	妈妈 跟 爸爸 生气 [^c] .
+%mor:	n:relat|ma1&DIM=mother prep|gen1=with n:relat|ba4&DIM=father
+	v|sheng1qi4=get_angry .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%act:	puts mommy and daddy lion back on jungle floor
+*CHI:	< 牠 > [/] 牠 骂 < 牠 们 > [/] 牠 们 两 个 [= baby lions] [^c] .
+%mor:	pro:per|ta1=it_animal v|ma4=scold pro:per|ta1=it_animal
+	n|men2=group num|liang3=two cl|ge4 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|MOD 5|6|QUANT 6|2|OBJ 7|2|PUNCT
+%act:	points to baby lions
+*CHI:	牠 们 两 个 一直 在 家 玩 [^c] .
+%mor:	pro:per|ta1=it_animal n|men2=group num|liang3=two cl|ge4
+	adv|yi1zhi2=continuously prep|zai4=at n|jia1=family v|wan2=play .
+%gra:	1|2|MOD 2|8|TOP 3|4|QUANT 4|8|SUBJ 5|8|JCT 6|8|JCT 7|6|PREPO 8|0|ROOT
+	9|8|PUNCT
+*CHI:	玩 那么 久 [^c] .
+%mor:	v|wan2=play adv|na4me=so adj|jiu3=for_long_time .
+%gra:	1|0|ROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*CHI:	< 牠 在 问 > [/] 牠 妈妈 在 问 牠 们 两 个 [^c] .
+%mor:	pro:per|ta1=it_animal n:relat|ma1&DIM=mother adv|zai4=currently
+	v|wen4=ask pro:per|ta1=it_animal n|men2=group num|liang3=two cl|ge4
+	.
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|8|MOD 7|8|QUANT 8|4|OBJ
+	9|4|PUNCT
+%act:	points to mommy and baby lions
+*CHI:	(..) 这 小 鸟 在 看 牠 们 [^c] .
+%mor:	det|zhe4=this adj|xiao3=small n|niao3=bird adv|zai4=currently
+	v|kan4=look pro:per|ta1=it_animal n|men2=group .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+%act:	touches pterodactyl
+*CHI:	牠 [= elephant] 尖 牙齿 [^c] .
+%mor:	pro:per|ta1=it_animal adj|jian1=sharp_pointed n|ya2chi3=tooth .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	touches elephant
+*CHI:	尖 尖 的 [^c] .
+%mor:	n|jian1=tip n|jian1=tip poss|de .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+*CHI:	还 有 大象 会 死 [^c] .
+%mor:	adv|hai2=still v|you3=have n|da4xiang4=elephant n|hui4=meeting
+	v:resc|si3=die .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	大象 被 大 巨人 (.) 踩 死 [^c] .
+%mor:	n|da4xiang4=elephant prep|bei4=by adj|da4=great n|ju4ren2=colossus
+	v|cai3=tread v:resc|si3=die .
+%gra:	1|5|SUBJ 2|5|JCT 3|4|MOD 4|2|PREPO 5|0|ROOT 6|5|VR 7|5|PUNCT
+*CHI:	就 会 没有 骨头 [^c] .
+%mor:	adv|jiu4=just v:resc|hui4=know v|mei2you3=not_have n|gu3tou2=bone .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SRL 4|3|OBJ 5|2|PUNCT
+*EXP:	就 会 没有 什么 ?
+%mor:	adv|jiu4=just v:aux|hui4=will v|mei2you3=not_have
+	pro:wh|shen2me=what ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	骨头 [^c] .
+%mor:	n|gu3tou2=bone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	狮子 会 < 把 > [/] 把 那 个 大 巨人 打 死 掉 [^c] .
+%mor:	n|shi1zi3=lion v:resc|hui4=know prep|ba3=object_marker det|na4=that
+	cl|ge4 adj|da4=great n|ju4ren2=colossus v|da3=hit v:resc|si3=die
+	v:resc|diao4=done .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|JCT 4|7|DET 5|7|CLASS 6|7|MOD 7|3|PREPO 8|2|SRL
+	9|8|VR 10|8|VR 11|2|PUNCT
+%act:	touches daddy lion
+*CHI:	踢 狮子 的 头 [^c] .
+%mor:	v|ti1=kick n|shi1zi3=lion poss|de n|tou2=head .
+%gra:	1|0|ROOT 2|4|MOD 3|2|POSS 4|1|OBJ 5|1|PUNCT
+%act:	hits daddy lion's head
+*CHI:	< 狮子 > [//] < 狮子 王 > [//] (.) 狮子 跟 狮子 王 一样的 名字 [^c] .
+%mor:	n|shi1zi3=lion v|gen1=follow n|shi1zi3=lion n|wang2=king
+	adj|yi1yang4-ISH=same n|ming2zi=given_name .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*EXP:	狮子 跟 狮子 王 一样的 名字 啊 .
+%mor:	n|shi1zi3=lion v|gen1=follow n|shi1zi3=lion n|wang2=king
+	adj|yi1yang4-ISH=same n|ming2zi=given_name sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|SFP 8|2|PUNCT
+*CHI:	< 狮子 王 > [//] 狮子 是 狮子 王 的 名字 [^c] .
+%mor:	n|shi1zi3=lion v:cop|shi4=is n|shi1zi3=lion n|wang2=king poss|de
+	n|ming2zi=given_name .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|MOD 5|4|POSS 6|2|PRED 7|2|PUNCT
+*EXP:	哦 .
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	牠 很 强 [^c] .
+%mor:	pro:per|ta1=it_animal adv|hen3=much adj|qiang2=strong .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|PROOT 4|3|PUNCT
+%act:	takes daddy lion
+*CHI:	牠 会 < 把 > [/] 把 那 个 daba@c 弄 死 [^c] .
+%mor:	pro:per|ta1=it_animal n|hui4=meeting prep|ba3=object_marker
+	det|na4=that cl|ge4 chi|daba v|nong4=make v:resc|si3=die .
+%gra:	1|2|MOD 2|7|SUBJ 3|7|JCT 4|5|DET 5|3|PREPO 6|3|PREPO 7|0|ROOT 8|7|VR
+	9|7|PUNCT
+*CHI:	这 个 [= mommy lion] 是 xxx [^c] .
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	touches mommy lion
+*CHI:	老虎 会 < 把 > [/] 把 daba@c 弄 下去 [^c] .
+%mor:	n|lao3hu3=tiger n|hui4=meeting prep|ba3=object_marker chi|daba
+	v|nong4=make v:dirc|xia4qu4=down .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|VD 7|5|PUNCT
+*CHI:	把 牠 摔 下去 [^c] .
+%mor:	prep|ba3=object_marker pro:per|ta1=it_animal v|shuai1=fall
+	v:dirc|xia4qu4=down .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|VD 5|3|PUNCT
+*CHI:	牠 就 死 了 [^c] .
+%mor:	pro:per|ta1=it_animal adv|jiu4=just v:resc|si3=die asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|ASP 5|3|PUNCT
+*CHI:	所以 牠 爸爸 就 不 用 打 daba@c [^c] .
+%mor:	conj|suo3yi3=so pro:per|ta1=it_animal n:relat|ba4&DIM=father
+	adv|jiu4=just adv|bu4=not prep|yong4=with v|da3=hit chi|daba .
+%gra:	1|7|LINK 2|3|MOD 3|7|SUBJ 4|7|JCT 5|6|JCT 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+%act:	touches daddy lion
+*EXP:	扬志 你 玩 好 嘞 哦 .
+%mor:	n:prop|yang2zhi4=flag_ambition pro:per|ni3=you v|wan2=play
+	adj|hao3=good sfp|le1 sfp|o1 .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|SFP 6|3|SFP 7|3|PUNCT
+*EXP:	那 我们 收 起来 了 .
+%mor:	conj|na4=so pro:per|wo3-PL=I v|shou1=gather v:dirc|qi3lai2=get_up
+	asp|le .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|ASP 6|3|PUNCT
+@Eg:	Narrative
+@End
