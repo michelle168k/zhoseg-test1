@@ -1,0 +1,19 @@
+version: "3.3"
+
+services:
+  backend:
+          build: ./Corpus-Backend
+          ports:
+                - "8787:8787"
+          volumes:
+                - ./Corpus-Backend:/app
+                - ./cha_store:/cha_store
+                - ./Corpus-Backend/unix-clan/lib:/var/lib/unixclan/lib
+          env_file: ./Corpus-Backend/.env
+          dns: 8.8.8.8
+  vue:
+    build: ./corpus-fe-analysis
+    ports:
+      - "55688:8080"
+    volumes:
+      - ./corpus-fe-analysis:/app
